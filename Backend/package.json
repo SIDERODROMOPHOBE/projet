@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.9",
+    "truffle": "^5.8.1"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.6.2"
+  }
+}
