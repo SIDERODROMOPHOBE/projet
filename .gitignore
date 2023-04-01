@@ -3,3 +3,5 @@ truffle-config.js
 node_modules
 migrations
 migrations/
+test
+test/
